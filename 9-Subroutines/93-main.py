@@ -1,5 +1,3 @@
-
-
 def location(country): # Rename the function so that it has a sensible name. 
   print("I am from " + country)
 
